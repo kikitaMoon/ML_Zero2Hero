@@ -4,7 +4,7 @@ My tiny workplace for learning of Machine Learning upon Tensor Flow, like comput
 ## branches
 
 - **Main** - contains executable scripts wirtten according to the courses learnt.
-- **Learning** - contains all scripts and anything semi-finished
+- **Playing** - contains all scripts and anything semi-finished
 
 ## Environment
 
